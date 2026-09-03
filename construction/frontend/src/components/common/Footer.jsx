@@ -6,7 +6,7 @@ function Footer() {
                 <div className='container py-5'>
                     <div className='row'>
                         <div className='col-md-3'>
-                            <h3>UrbanEdge Constructions</h3>
+                            <h3 className='mb-3'>UrbanEdge Constructions</h3>
                             <div className='pe-5'>
                                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam amet porro beatae.</p>
                             </div>
@@ -74,7 +74,7 @@ function Footer() {
                             </ul>
                         </div>
                         <hr />
-                        <div className='text-center pt-4'>Copyright @2XXX UrbanEdge Condstruction. All Right Reserved</div>
+                        <div className='text-center pt-4'>Copyright @2XXX UrbanEdge Construction. All Right Reserved</div>
                     </div>
 
                 </div>
